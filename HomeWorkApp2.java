@@ -8,7 +8,7 @@ public class HomeWorkApp2 {
         boolean checkN = checkNegative(-1);
         System.out.println(checkN);
         checkString();
-        boolean checkYears = years(104);
+        boolean checkYears = years(108);
         System.out.println(checkYears);
     }
 
